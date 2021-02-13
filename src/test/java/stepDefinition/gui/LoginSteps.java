@@ -14,7 +14,7 @@ public class LoginSteps {
     private WebDriver driver;
     private LoginPage loginPage;
 
-    public LoginSteps(final StepData stepData){
+    public LoginSteps(final StepData stepData) {
         this.stepData = stepData;
         this.driver = stepData.driver;
         loginPage = new LoginPage(this.driver);

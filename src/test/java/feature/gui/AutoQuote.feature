@@ -1,4 +1,4 @@
-Feature: Auto quote
+Feature: Auto Quote
 
   @GUI
   Scenario Outline: Apply for Auto Quote Service

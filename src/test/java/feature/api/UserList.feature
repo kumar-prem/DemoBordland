@@ -1,4 +1,4 @@
-Feature: Fetch User List
+Feature: Get User List
 
   @API
   Scenario: Get User List

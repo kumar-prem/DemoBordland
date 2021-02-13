@@ -1,4 +1,4 @@
-Feature: delete user
+Feature: Delete User
 
   @API
   Scenario: Register user successful

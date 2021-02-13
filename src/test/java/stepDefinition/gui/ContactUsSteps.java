@@ -31,13 +31,6 @@ public class ContactUsSteps {
         contactUsPage.verifyContactUsPageIsOpen();
     }
 
-//    @When("Enters {string} {string} {string} {string} {string} {string} {string} {string} {string} and {string}")
-//    public void entersAnd(String title, String firstname, String lastname, String address, String city, String state, String zipcode, Integer telephone, String email, String comment) {
-//        contactUsPage.fillContactUsPersonalDetails(title, firstname, lastname);
-//        contactUsPage.fillContactUsContactDetails(address, city, state, zipcode, telephone, email);
-//        contactUsPage.fillContactUsComment(comment);
-//    }
-
     @And("Clicks on Submit button")
     public void clicksOnSubmitButton() {
         contactUsPage.clickSubmitLink();

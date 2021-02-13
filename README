@@ -1,0 +1,6 @@
+You will need maven to run the compelete test in one go:
+Use command maven clean test or you can also run using the test functionality of maven.
+
+I have create GUI and API framework in one framework, that's why it took more time. My initial plan was to create 2 different frameworks but then I thought of using hooks to separate GUI and API test cases.
+I have not created separate files for data as the data used in this was very limited and I was running out of time as well.
+Features written is also not as per the correct format but my entire time was spent on creation of the framework.

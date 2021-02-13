@@ -1,4 +1,4 @@
-Feature: Test contact us functionality
+Feature: Contact Us
 
   @GUI
   Scenario Outline: Fill Contact Us Form

@@ -1,4 +1,4 @@
-Feature: login feature
+Feature: Login
 
   @GUI
   Scenario Outline: Login with Valid Credentials
